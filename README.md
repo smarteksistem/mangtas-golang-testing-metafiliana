@@ -1,5 +1,12 @@
 # mangtas-golang-testing-metafiliana
 
+# What im doing
+- how we input lot of words, paragraph --
+- how we remove the symbols --
+- how we handle line break and whitespace in console --
+- how we map and pair the word with its counter ---
+- how we get the top ten most occur word
+
 # How to run
 ```
 cd [root folder where main.go exist]
